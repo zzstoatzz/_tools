@@ -8,4 +8,3 @@ function gbre() {
         fi
     done | head -n $count
 }
-
